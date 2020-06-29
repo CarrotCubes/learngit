@@ -1,2 +1,2 @@
-git test
 git addtest
+git addtest2
